@@ -34,7 +34,9 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: ListView(
-          children: <Widget>[],
+          children: <Widget>[
+            DataType()
+          ],
         ),
       ),
     );
