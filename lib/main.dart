@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart'; //  引入flutter基础样式
+import './pages/data_type.dart';
 
 void main() {
   runApp(MyApp());
